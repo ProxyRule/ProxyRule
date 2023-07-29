@@ -1,5 +1,3 @@
-# ProxyRule
-
 Hi there 👋
 
 This organisation focuses mainly on Clash, Clash Premium, Clash.Meta, etc.
